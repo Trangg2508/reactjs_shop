@@ -2,22 +2,33 @@
 <h3 align="center">A frontend developer from Vietnam</h3>
 
 # Description
-   Responsive React Shop App With API
-   Create account, Login, See all products, See products by category, Search products, See detail of a product, Add products to cart and love list.
+   Responsive React Shop App With API <br/>
+   <i class="fa-light fa-puzzle"></i> Features: <br/>
+   Create account, Login<br/>
+   See all products, See products by category, See detail of a product<br/>
+   Search products<br/>
+   Add products to cart and love list.<br/>
+   See profile information, update profile, delete account. <br/>
    
 
-- #🌱 Technology in project **ReactJS, HTML/CSS, JavaScript, redux, antd, MUI, Bootstrap 5, Tailwind CSS**
+
+- 🌱 Technology in project:  **ReactJS, HTML/CSS, JavaScript, redux, antd, MUI, Bootstrap 5, Tailwind CSS**
+
+
   
 
-- 📄 Resource API: 
+- 📄 Resource API: <br/>
    [https://dummyjson.com/](https://dummyjson.com/) <br/>
-   [https://mockapi.io/projects/640c4dd9a3e07380e8f11293](https://mockapi.io/projects/640c4dd9a3e07380e8f11293)
+   [https://mockapi.io/projects/640c4dd9a3e07380e8f11293](https://mockapi.io/projects/640c4dd9a3e07380e8f11293)<br/>
   
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left"><i class="fa-light fa-paperclip"></i> Connect with me:</h3><br/>
 <p align="left">
-    [https://github.com/Trangg2508](https://github.com/Trangg2508)
-</p>
+    (https://github.com/Trangg2508)
+</p><br/>
+
 
 
 
@@ -28,10 +39,12 @@
 
 
 # Preview
-!["Responsive React Movies App With API"](https://github.com/Trangg2508/react--movie/blob/main/home.png "Responsive React Movies App With API")
+!["Responsive React Shop App With API"](https://github.com/Trangg2508/reactjs_shop/blob/main/home.png "Responsive React Shop App With API")
 
-!["Responsive React Movies App With API"](https://github.com/Trangg2508/react--movie/blob/c7ee98b0be7c49832165627cf689d832b3adffdd/movie.png "Responsive React Movies App With API")
+!["Responsive React Shop App With API"](https://github.com/Trangg2508/reactjs_shop/blob/main/login.png "Responsive React Shop App With API")
 
-!["Responsive React Movies App With API"](https://github.com/Trangg2508/react--movie/blob/main/detail.png "Responsive React Movies App With API")
+!["Responsive React Shop App With API"](https://github.com/Trangg2508/reactjs_shop/blob/cart.png "Responsive React Shop App With API")
 
-!["Responsive React Movies App With API"](https://github.com/Trangg2508/react--movie/blob/main/signIn.png "Responsive React Movies App With API")
+!["Responsive React Shop App With API"](https://github.com/Trangg2508/reactjs_shop/blob/main/detail.png "Responsive React Shop App With API")
+
+!["Responsive React Shop App With API"](https://github.com/Trangg2508/reactjs_shop/blob/main/category.png "Responsive React Shop App With API")
