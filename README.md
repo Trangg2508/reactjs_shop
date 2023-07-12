@@ -24,7 +24,7 @@
 
 
 
-<h3 align="left"><i class="fa-light fa-paperclip"></i> Connect with me:</h3><br/>
+<h3 align="left"><i class="fa-light fa-paperclip"></i> Connect with me:</h3>
 <p align="left">
     (https://github.com/Trangg2508)
 </p><br/>
@@ -43,7 +43,7 @@
 
 !["Responsive React Shop App With API"](https://github.com/Trangg2508/reactjs_shop/blob/main/login.png "Responsive React Shop App With API")
 
-!["Responsive React Shop App With API"](https://github.com/Trangg2508/reactjs_shop/blob/cart.png "Responsive React Shop App With API")
+!["Responsive React Shop App With API"](https://github.com/Trangg2508/reactjs_shop/blob/main/cart.png "Responsive React Shop App With API")
 
 !["Responsive React Shop App With API"](https://github.com/Trangg2508/reactjs_shop/blob/main/detail.png "Responsive React Shop App With API")
 
